@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi👋, I'm Nimesh Paudyal (@AMZUKKA)
 
 ## 🐍 My GitHub Contributions
 
