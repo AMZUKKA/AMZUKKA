@@ -1,4 +1,8 @@
-💥
+# Hi there 👋
+
+## 🐍 My GitHub Contributions
+
+![GitHub Snake](https://raw.githubusercontent.com/AMZUKKA/AMZUKKA/output/github-snake.svg)
 
 <!--
 **AMZUKKA/AMZUKKA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
