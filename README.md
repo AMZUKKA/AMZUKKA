@@ -1,7 +1,5 @@
 # Hi👋, I'm Nimesh Paudyal (@AMZUKKA)
 
-## 🐍 My GitHub Contributions
-
 ![GitHub Snake](https://raw.githubusercontent.com/AMZUKKA/AMZUKKA/output/github-snake.svg)
 
 <!--
